@@ -29,6 +29,8 @@ REPOSITORIES: List[str] = [
     # Direct Dependencies
     "https://github.com/i-schuetz/SwiftCharts.git",
     "https://github.com/ps2/rileylink_ios.git",
+    # Other
+    "https://github.com/Kdisimone/looptips.git",
 ]
 
 SCRIPT_DIRECTORY: Path = Path(__file__).parent.absolute()
