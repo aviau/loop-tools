@@ -31,6 +31,7 @@ REPOSITORIES: List[str] = [
     "https://github.com/ps2/rileylink_ios.git",
     # Other
     "https://github.com/Kdisimone/looptips.git",
+    "https://github.com/ps2/rileylink.git",
 ]
 
 SCRIPT_DIRECTORY: Path = Path(__file__).parent.absolute()
